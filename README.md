@@ -1,0 +1,2 @@
+# android
+leitor cod bar
